@@ -21,4 +21,4 @@ This repository contains my AWS Certified Cloud Practitioner certification and k
 - Awareness of cloud security and cost management
 
 ## Credential Verification
-Credential link: https://www.credly.com/badges/XXXXX
+Credential link: [https://www.credly.com/badges/XXXXX](https://www.credly.com/badges/626bb9b6-90b5-42b3-938b-2bd2f7fded36/public_url)
